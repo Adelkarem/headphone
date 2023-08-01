@@ -22,7 +22,7 @@ const Home = () => {
       </div>
 
       <div className="">
-        <img src='/src/assets/78e0a6052b13a43200ab3f302d4b5e53-removebg-preview.png' alt="aaa" />
+        <img src='/src/assets/images/78e0a6052b13a43200ab3f302d4b5e53-removebg-preview.png' alt="aaa" />
       </div>
     </section>
   );
