@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+  .container{
+    @apply px-[50px] mx-auto;
+  }
+ 
+ 
+}
+
+body{
+  background-color: rgba(0, 0, 0, 0.877);
+}
+
+
+
+
+/* Styles for screens with a maximum width of 768 pixels (small screens) */
+@media (max-width: 768px) {
+  /* Add your styles here */
+  .footer{
+   margin-top: 20px;
+  }
+
+}
